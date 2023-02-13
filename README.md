@@ -7,6 +7,4 @@
   - Excel ([`.xlsx`](https://en.wikipedia.org/wiki/Microsoft_Excel#Current_file_extensions))
 - Output
   - CSV ([`.csv`](https://en.wikipedia.org/wiki/Comma-separated_values))
-  - Feather ([`.arrow`](https://arrow.apache.org/docs/python/feather.html))
-
-
+  - Arrow ([`.arrow`](https://arrow.apache.org/docs/python/feather.html))
