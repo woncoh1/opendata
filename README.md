@@ -8,3 +8,7 @@
 - Output
   - CSV ([`.csv`](https://en.wikipedia.org/wiki/Comma-separated_values))
   - Arrow ([`.arrow`](https://arrow.apache.org/docs/python/feather.html))
+## Features
+  - Light: small file size
+  - Fast: quick import and export
+  - Universal: easy to open anywhere and anytime
